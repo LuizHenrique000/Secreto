@@ -1,0 +1,10 @@
+.retangulo {
+  width: 400px;
+  height: 320px;
+  color: green;
+  border: 1px solid brown;
+  background-image: url("https://images.saymedia-content.com/.image/t_share/MTc1MTEyMzgzMTI2NzA5MzQz/the-top-10-worst-disney-villains.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
